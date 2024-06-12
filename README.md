@@ -1,5 +1,5 @@
 # Run code
-First you have to create all the containers in docker in the same network
+First you have to create 3 containers in docker in the same network
 
 python connect_cassandra.py
 
